@@ -1,0 +1,46 @@
+﻿Description,Value,Key Figure,ModelDate
+Calendar Time,3431,Actual,2021
+Planned Maintenance,248,Actual,2021
+Unplanned maintenance,155.2,Actual,2021
+Industrial Action,4.1,Actual,2021
+Power Outages,12,Actual,2021
+Weather Delays,4,Actual,2021
+No Operators,680.8,Actual,2021
+Training,79.2,Actual,2021
+Choking,323.3,Actual,2021
+Starving,426.3,Actual,2021
+Fill Factor,8,Actual,2021
+Truck Capacity,20,Actual,2021
+Queue Time,0.1,Actual,2021
+Loading Time,0,Actual,2021
+Travelling Time,0.3,Actual,2021
+Calendar Time,3248,Scenario1,2021
+Planned Maintenance,258.7,Scenario1,2021
+Unplanned maintenance,159.9,Scenario1,2021
+Industrial Action,4.1,Scenario1,2021
+Power Outages,12,Scenario1,2021
+Weather Delays,3.8,Scenario1,2021
+No Operators,752.1,Scenario1,2021
+Training,70.1,Scenario1,2021
+Choking,320,Scenario1,2021
+Starving,453.8,Scenario1,2021
+Fill Factor,7,Scenario1,2021
+Truck Capacity,18.4,Scenario1,2021
+Queue Time,0.1,Scenario1,2021
+Loading Time,0,Scenario1,2021
+Travelling Time,0.3,Scenario1,2021
+Calendar Time,3212,Target,2021
+Planned Maintenance,248,Target,2021
+Unplanned maintenance,140.9,Target,2021
+Industrial Action,4.2,Target,2021
+Power Outages,11.9,Target,2021
+Weather Delays,4.1,Target,2021
+No Operators,696.7,Target,2021
+Training,77.5,Target,2021
+Choking,316.7,Target,2021
+Starving,394.2,Target,2021
+Fill Factor,8,Target,2021
+Truck Capacity,19,Target,2021
+Queue Time,0.1,Target,2021
+Loading Time,0,Target,2021
+Travelling Time,0.3,Target,2021
